@@ -65,4 +65,4 @@ Once Gazebo and rviz are up and running, make sure to see following in the gazeb
 
 The ``IK_server.py`` code is able to move the robotic arm for 10/10 cycles cleanly, where 10 target spawns are grasped from their random location and placed inside the bin: 
 
-![Successful Pick and Place Operation in 10/10 cycles](Results/Pick_Place_Operation_10_cycles.png)
+![Successful Pick and Place Operation in 10/10 cycles](Results/Pick_Place_Operation_10_cycles.PNG)
